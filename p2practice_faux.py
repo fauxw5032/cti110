@@ -8,8 +8,8 @@
 #tell them how old their are next year
 #header
 #get input
-number = int(input("how old are you "))
+age = int(input("how old are you "))
 #calculate the answer
-answer= number + 2
+answer= age + 1
 #print output
-print("your result is ",answer)
+print("next year you will be ",answer)
